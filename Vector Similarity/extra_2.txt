@@ -1,0 +1,39 @@
+1 capital
+1-best Accuracy: 0.6666666666666666
+5-best Accuracy: 0.8333333333333334
+10-best Accuracy: 1.0
+
+2 currency
+1-best Accuracy: 0.0
+5-best Accuracy: 0.0
+10-best Accuracy: 0.0
+
+3 city-in-state
+1-best Accuracy: 0.6111111111111112
+5-best Accuracy: 0.8888888888888888
+10-best Accuracy: 0.9444444444444444
+
+4 family
+1-best Accuracy: 0.9038461538461539
+5-best Accuracy: 1.0
+10-best Accuracy: 1.0
+
+5 adjective-to-adverb
+1-best Accuracy: 0.1111111111111111
+5-best Accuracy: 0.2777777777777778
+10-best Accuracy: 0.3888888888888889
+
+6 comparative
+1-best Accuracy: 0.7666666666666667
+5-best Accuracy: 0.9666666666666667
+10-best Accuracy: 0.9904761904761905
+
+7 superlative
+1-best Accuracy: 0.7857142857142857
+5-best Accuracy: 1.0
+10-best Accuracy: 1.0
+
+8 nationality-adjective
+1-best Accuracy: 1.0
+5-best Accuracy: 1.0
+10-best Accuracy: 1.0

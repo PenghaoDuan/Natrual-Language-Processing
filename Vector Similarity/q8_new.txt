@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Oct 24 17:53:37 2018
+
+@author: Administrator
+"""
+: jobs
+driver drive teacher teach
+scientists science artists art
+visitors visit directors direct
+: components
+gas car wood door
+screen television camera mobile
+key house products store
